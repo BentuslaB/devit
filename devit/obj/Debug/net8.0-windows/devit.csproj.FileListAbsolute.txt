@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\bin\Debug\net8.0-windows\devit.exe
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\bin\Debug\net8.0-windows\devit.deps.json
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\bin\Debug\net8.0-windows\devit.runtimeconfig.json
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\bin\Debug\net8.0-windows\devit.dll
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\bin\Debug\net8.0-windows\devit.pdb
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\obj\Debug\net8.0-windows\devit.Form1.resources
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\obj\Debug\net8.0-windows\devit.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\obj\Debug\net8.0-windows\devit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\obj\Debug\net8.0-windows\devit.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\obj\Debug\net8.0-windows\devit.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\obj\Debug\net8.0-windows\devit.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\obj\Debug\net8.0-windows\devit.sourcelink.json
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\obj\Debug\net8.0-windows\devit.dll
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\obj\Debug\net8.0-windows\refint\devit.dll
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\obj\Debug\net8.0-windows\devit.pdb
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\obj\Debug\net8.0-windows\devit.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\тернир\devit\devit\devit\obj\Debug\net8.0-windows\ref\devit.dll
